@@ -38,7 +38,7 @@ input {
     color: white;
     font-size: smaller;
     max-width: 200px;
-    border-radius: 0px;
+    border-radius: 10px;
     border: 1px solid #156bbd;
     float: right;
     padding: 10px 2px;
@@ -48,6 +48,7 @@ input {
 
 .btn {
   background-color: dodgerblue;
+  color: white;
 }
 .header {
   display: flex;
